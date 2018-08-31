@@ -1,5 +1,6 @@
 # kxmx_dsp
-DSP libs for krachmacher
+
+DSP experiments and algos for kxmx projects 
 
 For now build with:
 
